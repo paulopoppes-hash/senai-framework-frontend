@@ -148,6 +148,7 @@ Abaixo estão listadas as atividades práticas desenvolvidas ao longo da discipl
 | 04 | 02 | API Relogio — Data e Hora com Express | [Senai-Relogio-API](https://github.com/paulopoppes-hash/Senai-Relogio-API) |
 | 05 | 01 | Atualizacao do repositorio de anotacoes das aulas | [Senai-Front-notes](https://github.com/paulopoppes-hash/Senai-Front-notes) |
 | 05 | 02 | API CRUD de Notas — Express + JSON | [Senai-Notes-Api](https://github.com/paulopoppes-hash/Senai-Notes-Api) |
+| 06 | 01 | Plano de gestão de tarefas PII — backlog, kanban, branches, DoD | [Senai-Gestao-PII](https://github.com/paulopoppes-hash/Senai-Gestao-PII) |
 
 ---
 
