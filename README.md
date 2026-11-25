@@ -151,6 +151,7 @@ Abaixo estão listadas as atividades práticas desenvolvidas ao longo da discipl
 | 06 | 01 | Plano de gestão de tarefas PII — backlog, kanban, branches, DoD | [Senai-Gestao-PII](https://github.com/paulopoppes-hash/Senai-Gestao-PII) |
 | 07 | 01 | Loja virtual — CSS Box Model e Flexbox com 20 elementos | [Senai-Loja-CSS](https://github.com/paulopoppes-hash/Senai-Loja-CSS) |
 | 07 | 02 | Portfolio — Tailwind CSS com 30 classes utilitárias | [Senai-Portfolio-Tailwind](https://github.com/paulopoppes-hash/Senai-Portfolio-Tailwind) |
+| 08 | 01 | Cardápio digital — React JSX, componentes, props, listas | [Senai-Cardapio-React](https://github.com/paulopoppes-hash/Senai-Cardapio-React) |
 
 ---
 
