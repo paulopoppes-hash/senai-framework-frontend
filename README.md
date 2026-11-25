@@ -139,6 +139,7 @@ Abaixo estão listadas as atividades práticas desenvolvidas ao longo da discipl
 | Aula | Atividade | Descrição | Repositório |
 | :--: | :---: | --------- | ----------- |
 | 01 | 01 | Jogo dos Sete Erros — Vanilla JS, manipulação de DOM | [Senai-Sete-Erros](https://github.com/paulopoppes-hash/Senai-Sete-Erros) |
+| 03 | 01 | Catalogo de Produtos — React | [Senai-Catalogo](https://github.com/paulopoppes-hash/Senai-Catalogo) |
 
 ---
 
