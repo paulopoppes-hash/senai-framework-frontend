@@ -150,6 +150,7 @@ Abaixo estão listadas as atividades práticas desenvolvidas ao longo da discipl
 | 05 | 02 | API CRUD de Notas — Express + JSON | [Senai-Notes-Api](https://github.com/paulopoppes-hash/Senai-Notes-Api) |
 | 06 | 01 | Plano de gestão de tarefas PII — backlog, kanban, branches, DoD | [Senai-Gestao-PII](https://github.com/paulopoppes-hash/Senai-Gestao-PII) |
 | 07 | 01 | Loja virtual — CSS Box Model e Flexbox com 20 elementos | [Senai-Loja-CSS](https://github.com/paulopoppes-hash/Senai-Loja-CSS) |
+| 07 | 02 | Portfolio — Tailwind CSS com 30 classes utilitárias | [Senai-Portfolio-Tailwind](https://github.com/paulopoppes-hash/Senai-Portfolio-Tailwind) |
 
 ---
 
