@@ -144,6 +144,7 @@ Abaixo estão listadas as atividades práticas desenvolvidas ao longo da discipl
 | 03 | 03 | Agenda de Contatos — Angular | [Senai-Agenda-Angular](https://github.com/paulopoppes-hash/Senai-Agenda-Angular) |
 | 03 | 04 | Blog — Next.js | [Senai-Blog-Next](https://github.com/paulopoppes-hash/Senai-Blog-Next) |
 | 03 | 05 | Copia funcional de repositorio modelo | [Senai-Copia-Modelo](https://github.com/paulopoppes-hash/Senai-Copia-Modelo) |
+| 04 | 01 | Pesquisa de 10 projetos que consomem APIs | [Senai-Pesquisa-APIs](https://github.com/paulopoppes-hash/Senai-Pesquisa-APIs) |
 
 ---
 
