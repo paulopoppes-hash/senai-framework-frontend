@@ -152,6 +152,7 @@ Abaixo estão listadas as atividades práticas desenvolvidas ao longo da discipl
 | 07 | 01 | Loja virtual — CSS Box Model e Flexbox com 20 elementos | [Senai-Loja-CSS](https://github.com/paulopoppes-hash/Senai-Loja-CSS) |
 | 07 | 02 | Portfolio — Tailwind CSS com 30 classes utilitárias | [Senai-Portfolio-Tailwind](https://github.com/paulopoppes-hash/Senai-Portfolio-Tailwind) |
 | 08 | 01 | Cardápio digital — React JSX, componentes, props, listas | [Senai-Cardapio-React](https://github.com/paulopoppes-hash/Senai-Cardapio-React) |
+| 09 | 01 | Gerenciador de tarefas — React useState, formulários, useEffect, API, Router | [Senai-Tarefas-Router](https://github.com/paulopoppes-hash/Senai-Tarefas-Router) |
 
 ---
 
