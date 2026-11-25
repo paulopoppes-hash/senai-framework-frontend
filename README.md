@@ -132,6 +132,16 @@ A avaliação da disciplina seguirá a distribuição estabelecida para as unida
 
 ---
 
+# 🚀 Atividades / Projetos da Disciplina
+
+Abaixo estão listadas as atividades práticas desenvolvidas ao longo da disciplina. Cada atividade possui seu próprio repositório independente no GitHub.
+
+| Aula | Atividade | Descrição | Repositório |
+| :--: | :---: | --------- | ----------- |
+| 01 | 01 | Jogo dos Sete Erros — Vanilla JS, manipulação de DOM | [Senai-Sete-Erros](https://github.com/paulopoppes-hash/Senai-Sete-Erros) |
+
+---
+
 # ⚠️ Observações
 
 Os conteúdos disponibilizados neste repositório possuem finalidade exclusivamente educacional e acompanham o desenvolvimento da disciplina.
